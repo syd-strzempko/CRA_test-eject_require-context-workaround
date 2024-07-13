@@ -1,4 +1,4 @@
-# Ejected Create-React-App with require.context Jest Testing Support
+# Ejected Create React App require.context Workaround for Jest
 
 ## Overview
 
