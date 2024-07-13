@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
+  const testValue = require.context('', true, /\.(png|gif)$/);
   return (
     <div className="App">
       <header className="App-header">
